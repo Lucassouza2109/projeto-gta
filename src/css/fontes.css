@@ -1,0 +1,7 @@
+
+/* Utilização de fonte especifica na Pagina que esta sendo criada.  */
+
+@font-face {
+  font-family: 'ChaletComprime';
+  src: url("../fontes/ChaletComprime.ttf");
+}
